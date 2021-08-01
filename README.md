@@ -11,3 +11,6 @@ MIT
 
 ## Deployed Url
 https://robert100-case.github.io/PortfolioDeploy
+
+## Screenshot 
+<img src="screenshot.png"/>
