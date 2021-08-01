@@ -13,4 +13,4 @@ MIT
 https://robert100-case.github.io/PortfolioDeploy
 
 ## Screenshot 
-<img src="screenshot.png"/>
+<img src="Screenshot.png"/>
